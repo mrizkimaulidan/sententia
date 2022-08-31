@@ -40,7 +40,7 @@ $ cd sententia
 
 Download the required dependencies:
 ```bash
-$ go mod tidy
+$ go mod download
 ```
 
 Build:
